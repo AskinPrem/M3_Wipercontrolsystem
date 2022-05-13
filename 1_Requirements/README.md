@@ -21,6 +21,15 @@ A wiper speed control system regulates the operational speed of a wiper based on
   * This Microcontroller can be found in a variety of household products.
  ## WORKING PRINCIPLE
 Consider the automobile as microcontroller. If the button is hit, the first LED (red) will turn on. Pressing the button again the wiper will start and the second LED (blue) will turn on for the desired rate. If the button is pressed again, the third LED (green) will turn on and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth LED (orange) and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
+Folder | Description
+-- | --
+0_Abstract | Explaination of the project
+1_Requirements | Documents detailing requirements and research
+2_Design	| Behavioural and Structural UML Diagrams along with Block diagrams and flow charts
+3_Implemenatation	 | All code and documentation
+4_TestCases	| Documents with test plans and procedures and Output
+5_Report	| Overall report of the project
+6_Output	| Code Execution Images and Video
  ### 4 W'S
  ## WHAT IS WIPER CONTROL SYSTEM
   Windscreen wipers are necessary for maintaining sufficient view for the driver, especially in modern high-speed cars.
