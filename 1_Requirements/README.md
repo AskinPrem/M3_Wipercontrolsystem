@@ -30,12 +30,27 @@ Folder | Description
 4_TestCases	| Documents with test plans and procedures and Output
 5_Report	| Overall report of the project
 6_Output	| Code Execution Images and Video
- ### 4 W'S
- ## WHAT IS WIPER CONTROL SYSTEM
+ ### 4 W'S & 1 H
+ ## WHAT 
   Windscreen wipers are necessary for maintaining sufficient view for the driver, especially in modern high-speed cars.
- ## WHY WIPER CONTROL SYSTEM
+ ## WHY 
    To keep the windscreen clean enough to give adequate view at all times.
- ## WHEN SHOULD USE WIPER CONTROL SYSTEM 
+ ## WHEN 
   The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
- ## WHO DISCOVERED WIPER CONTROL SYSTEM
+ ## WHO 
   Mark Anderson invented on 1903
+  ## HOW 
+  The control system includes a rain sensor which detects the rain condition. An analog signal having an amplitude depending upon the detected rain conditions has been identified.A converter is used to convert analog signal into digital pulse signal and is transferred to a digital circuit system.The pulse signal is digitally processed where a control signal is produced.The control signal is applied to a wiper driver circuit to adjust the operational speed or timing in accordance with the control signal.
+  ## SWOT ANALYSIS
+# STRENGTH
+* Low cost 
+* High reputation
+* Clarity of vision 
+# WEAKNESSES
+* Replacement cost are higher.
+* Chances of wiper motor failure.
+# OPPORTUNITIES
+* High possibilities for safety.
+# THREATS
+* Wiper mix might be an issue in rain.
+* Replaced  by advanced technology.
